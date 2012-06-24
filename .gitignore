@@ -1,0 +1,8 @@
+﻿Device-Release/*
+Simulator-Profile/*
+Device-Release/*
+Simulator-Coverage/*
+Device-Profile/*
+Simulator-Debug/*
+Device-Debug/*
+Device-Coverage/*
